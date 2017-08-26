@@ -12,9 +12,7 @@ header-img: "img/green.jpg"
 
 因此我们成立了**「知识众筹社」** ，希望结交一些同样有兴趣的朋友一起探讨，我的微信是**zszcs_vivi**，我也愿意将其中一些观点分享出来，大家共同学习和提高。 
 
-![](https://ww4.sinaimg.cn/large/006tKfTcgy1fix7tqtpqij30by0by74k.jpg)
-
-**最少的投入产生最大的价值**这就是众筹的魔力啊，知识改变命运，从知识众筹开始你的改变。目前我们已订阅了以下内容。欢迎你加我的微信**zszcs_vivi** ， 加入「知识众筹社」。
+欢迎你加我的微信**zszcs_vivi** ， 加入「知识众筹社」。
 
     * 01  得到APP | 共计36个专栏
     * 02  喜马拉雅 | 共计300+个专栏
@@ -45,14 +43,24 @@ header-img: "img/green.jpg"
 
 详细清单请参考：https://shimo.im/doc/DaOquEpzgig53KQQ?r=KYKG9Q/「「知识众筹社」资源清单」
 
-**会员进群后共享以上所有收费资源。**
-
-欢迎关注我们的微信公众号：**kindle书友会（微信号：zhishizhongchoushe）**，免费赠送优质付费节目。
-
 「知识众筹社」是专注于互联网优质知识分享的社群，致力于让更多的人享受知识的红利！在这里一起开思维、学干货、长本领！**认知升级，只为遇见更好的自己！**
 
 为知识买单，凝聚爱学习的人，社群的最大魅力是人与人之间的碰撞与链接。**最少的投入产生最大的价值**这就是众筹的魔力，知识改变命运，从知识众筹开始你的改变！期待你的加入。
 
+-------
+
+请联系我的微信**zszcs_vivi** 加入「知识众筹社」，**可获得已众筹的所有平台上相关资源**，拉进 百度网盘群 共同学习，社群也会经常分享优质电影资源、书籍资源。
+
+<center>
+    <p><img src="https://ww2.sinaimg.cn/large/006tKfTcgy1fix91fasqoj3076076q31.jpg" align="center"></p>
+</center>
 
 
+-------
+
+关注微信**公众号**：**kindle书友会（微信号：zhishizhongchoushe）**，每天分享优质书籍资源。加入**kindle书友会 QQ群：646552923**，**免费赠送**优质付费内容。
+
+<center>
+    <p><img src="https://ww1.sinaimg.cn/large/006tKfTcgy1fix8tn1wqaj3076076dfx.jpg"></p>
+</center>
 
