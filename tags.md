@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "标签"
-description: "点击标签分类阅读吧"  
+description: "按照标签分类"  
 header-img: "img/semantic.jpg"  
 ---
 
