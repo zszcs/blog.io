@@ -1,17 +1,11 @@
 ---
 layout: page
 title: "资源清单"
-description: "点击专栏名称查看所有专栏 "
+description: "点击平台名称查看所有专栏 "
 header-img: "img/zhihu.jpg"
 ---
 
-
-<center>
-    <p><img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fix7tqtpqij30by0by74k.jpg" align="center"></p>
-</center>
-
-
-### 代表作：
+### 按平台分类：
 
 
 - [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
@@ -23,5 +17,7 @@ header-img: "img/zhihu.jpg"
 
 
 
-
+<center>
+    <p><img src="https://ww4.sinaimg.cn/large/006tKfTcgy1fix7tqtpqij30by0by74k.jpg" align="center"></p>
+</center>
 
