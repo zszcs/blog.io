@@ -1,8 +1,8 @@
 ---
 layout: page
-title: " 标签 "
-description: " 点击标签按照主题获取资料 " 
-header-img: "img/semantic.jpg"  
+title: "标签"
+description: "点击标签分类阅读吧"  
+header-img: "img/semantic.jpg"  
 ---
 
 
